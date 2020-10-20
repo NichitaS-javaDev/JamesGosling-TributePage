@@ -1,0 +1,114 @@
+body {
+    background-image: url(images/FontImg.png);
+}
+
+.header_image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.quote {
+    color: #ffffff;
+    font-style: oblique;
+    font-size: 1.6em;
+    text-align: center;
+    font-family: cursive;
+    font-weight: 600;
+    padding: 15px;
+}
+
+#timeline {
+    padding-left: 8.5em;
+    float: left;
+}
+
+.content {
+    color: white;
+}
+
+.time_line_date {
+    width: 100px;
+    color: darkorange;
+    padding-bottom: 20px;
+    padding-left: 10px;
+    padding-top: 15px;
+    border-top: 1px solid white;
+    border-top-color: #1E90FF;
+    margin-left: 65px;
+    font-family: fantasy; 
+    float: left;
+    clear: left;
+}
+
+.time_line_event {
+    width: 750px;
+    padding-bottom: 20px;
+    padding-left: 40px;
+    padding-top: 15px;
+    border-top: 1px solid white;
+    border-top-color: #1E90FF;
+    font-family: cursive;
+    float: left;
+    clear: right;  
+}
+
+span {
+    display: block;
+}
+
+.few_words {
+    margin-left: 110px
+}
+
+.life_img {
+    padding-left: 70px;
+    padding-top: 10px;   
+}
+
+table {
+    padding-left: 50px;
+    font-family: cursive;
+    border-collapse: separate;
+    border-spacing: 10px;
+    width: 370px;
+    
+}
+
+table td {
+    border-bottom: 1px solid white;
+    border-bottom-color: #1E90FF;
+}
+
+table th {
+    text-align: left;
+    padding-right:  20px;
+    color: darkorange;
+}
+
+footer {
+    color: darkorange;
+    display: block;
+    width: 700px;
+    margin: 225px;
+    margin-top: 40px;
+    margin-bottom: 30px;
+    padding: 10px;
+    text-align: center;
+    font-family: cursive;
+    font-size: 20px;
+    border: ridge white;
+    border-width: 1px;
+    border-radius: 20px;
+    border-color: #1E90FF;
+}
+
+hr {
+    border-color:  #1E90FF;
+}
+
+
+
+
+
+
